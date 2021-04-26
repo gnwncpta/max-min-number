@@ -6,6 +6,6 @@ Tech Stack:
 
 ![alt text](https://i.imgur.com/nYUwci7.jpg "JavaScript") 
 
-Test App:
+> Run App:
 
-[ES6 Console](https://es6console.com/knygon41/)
+> [ES6 Console](https://es6console.com/knygon41/)
