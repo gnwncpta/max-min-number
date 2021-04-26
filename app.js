@@ -12,7 +12,7 @@ Number.prototype.MaxNumber = function(){
         }   
     }
     // Matikan komentar untuk melihat isi array
-    console.log(result); 
+    // console.log(result); 
     console.log(`Max : ${result[result.length - 1]}`);
 }
 
